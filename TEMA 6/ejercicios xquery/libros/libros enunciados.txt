@@ -1,0 +1,15 @@
+1. Título y editorial de todos los libros
+
+2. El títullo (sin etiquetas) de todos los libros de menos de 100 páginas.
+
+3. El número de  libros de menos de 100 páginas.
+
+4. Una lista HTML con el título de los libros de la editorial “O'Reilly” ordenados por título.
+
+5. Título y editorial de los libros de 2002
+
+6. Título y editorial de los libros con más de un autor.
+
+7. Título y editorial de los libros que tienen versión electrónica.
+
+8. Título de los libros que no tienen versión electrónica.

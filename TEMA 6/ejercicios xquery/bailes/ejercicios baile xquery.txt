@@ -1,0 +1,36 @@
+1. Muestra el nombre de todos los bailes.
+
+2. Muestra el nombre y precio de todos los bailes.
+
+3. Muestra el nombre y precio de todos los bailes donde su precio es mayor que 40.
+
+4. Mostrar los bailes ordenados por nombre.
+
+5. Mostrar los nombres de los bailes que contienen una a.
+
+6. Mostrar el nombre de los bailes donde el apellido del profesor sea Lozano.
+
+7. Mostrar todos los bailes, excepto el 3 y 5.
+
+8. Mostrar profesores que den clases de bailes por una cuota mensual.
+
+9. Mostrar el nombre de los bailes de la sala 1, que se pague con euros y el precio sea menor a 35.
+
+10. Obtener el precio del baile con el precio más caro.
+
+11. Obtener el precio y el nombre del baile con el precio más caro.
+
+12. Obtener el precio del baile con el precio más barato.
+
+13. Obtener el precio y el nombre del baile con el precio más barato.
+
+14. Obtener la suma del precio de todas las clases.
+
+15. Obtener la suma del precio de todas las clases, teniendo en cuenta la moneda usada.
+
+16. Obtener el dia, mes y año de los bailes mensuales, tanto del comienzo como del final.
+
+17. Obtener los bailes que tengan mas de 100 dias de diferencia.
+
+18. Obtener la diferencia de dias del comienzo del baile con la fecha actual.
+

@@ -1,0 +1,224 @@
+﻿Consulta 1:
+
+
+Extraer toda la información de los proveedores cuya ciudad sea Londres.
+
+
+Resultado que se debería obtener:
+
+----------------------------------------------
+
+<proveedor numprov="v1">
+
+            <nombreprov>Smith</nombreprov>
+
+            <estado>20</estado>
+
+            <ciudad>Londres</ciudad>
+
+        </proveedor><proveedor numprov="v4">
+
+            <nombreprov>Clarke</nombreprov>
+
+            <estado>20</estado>
+
+            <ciudad>Londres</ciudad>
+
+        </proveedor>
+
+----------------------------------------------
+
+
+
+Consulta 2
+:
+
+Extraer solo el nombre de los proveedores cuya ciudad sea Londres.
+
+
+Resultado que se debería obtener:
+
+----------------------------------------------
+
+Smith Clarke 
+----------------------------------------------
+
+
+
+Consulta 3
+:
+
+Extraer el numero de parte de partes cuyo color sea Rojo
+
+Resultado que se debería obtener:
+
+----------------------------------------------
+
+p1 p4 p6
+
+----------------------------------------------
+
+
+
+Consulta 4:
+
+
+Sin usar WHERE mostrar las partes que tienen un peso mayor de  14.
+
+
+Resultado que se debería obtener:
+
+----------------------------------------------
+
+<parte numparte="p2">
+
+            <nombreparte>Perno</nombreparte>
+
+            <color>Verde</color>
+            <peso>17</peso>
+
+            <ciudad>Paris</ciudad>
+
+        </parte><parte numparte="p3">
+
+            <nombreparte>Tornillo</nombreparte>
+
+            <color>Azul</color>
+
+            <peso>17</peso>
+
+            <ciudad>Roma</ciudad>
+
+        </parte><parte numparte="p6">
+
+            <nombreparte>Engranaje</nombreparte>
+
+            <color>Rojo</color>
+
+            <peso>19</peso>
+
+            <ciudad>Londres</ciudad>
+
+        </parte>
+
+----------------------------------------------
+
+
+
+Consulta 5:
+
+
+Repetir la consulta anterior usando where
+
+
+Resultado que se debería obtener:
+
+
+----------------------------------------------
+
+<parte numparte="p2">
+
+            <nombreparte>Perno</nombreparte>
+
+            <color>Verde</color>
+
+            <peso>17</peso>
+
+            <ciudad>Paris</ciudad>
+
+        </parte><parte numparte="p3">
+
+            <nombreparte>Tornillo</nombreparte>
+
+            <color>Azul</color>
+
+            <peso>17</peso>
+
+            <ciudad>Roma</ciudad>
+
+        </parte><parte numparte="p6">
+
+            <nombreparte>Engranaje</nombreparte>
+
+            <color>Rojo</color>
+
+            <peso>19</peso>
+
+            <ciudad>Londres</ciudad>
+
+        </parte>
+
+----------------------------------------------
+
+
+
+Consulta 6
+:
+
+Extraer el nombre de parte y el peso de las partes cuyo color sea Azul
+.
+
+Resultado que se debería obtener:
+
+
+----------------------------------------------
+
+<nombreparte>Tornillo</nombreparte>
+<peso>17</peso>
+<nombreparte>Leva</nombreparte>
+<peso>12</peso>
+
+----------------------------------------------
+
+
+
+Consulta 7
+:
+
+Contar cuantas partes se han suministrado en una cantidad mayor de 400
+.
+
+Resultado que se debería obtener:
+
+
+----------------------------------------------
+
+8
+
+----------------------------------------------
+
+
+
+Consulta 8:
+
+
+De la tabla suministros extraer el nombre de los proyectos con una cantidad suministrada menor que 700.
+
+
+Resultado que se debería obtener:
+
+----------------------------------------------
+
+<resultado>Clasificador, 200</resultado>
+<resultado>Clasificador, 400</resultado>
+<resultado>Clasificador, 200</resultado>
+<resultado>Monitor, 200</resultado>
+<resultado>Monitor, 100</resultado>
+<resultado>Monitor, 500</resultado>
+<resultado>Monitor, 200</resultado>
+<resultado>Monitor, 200</resultado>
+<resultado>OCR, 300</resultado>
+<resultado>OCR, 300</resultado>
+<resultado>Consola, 500</resultado>
+<resultado>Consola, 100</resultado>
+<resultado>Consola, 100</resultado>
+<resultado>Consola, 200</resultado>
+<resultado>Consola, 400</resultado>
+<resultado>Consola, 500</resultado>
+<resultado>RAID, 600</resultado>
+<resultado>RAID, 500</resultado>
+<resultado>EDS, 400</resultado>
+<resultado>Cinta, 600</resultado>
+<resultado>Cinta, 300</resultado>
+
+----------------------------------------------

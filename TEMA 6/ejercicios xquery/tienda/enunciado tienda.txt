@@ -1,0 +1,17 @@
+1.Obtener el nombre de todos los clientes
+
+2.Obtener el nombre de todos los clientes de Alicante
+
+3.Obtener el nombre de todos los clientes ordenado descendentemente por nombre
+
+4.Obtener todos los códigos de los artículos que ha comprado el cliente 22
+
+5.Obtener todos los códigos de los artículos junto con el modelo y marca de lo que ha comprado el cliente 22
+
+6.¿Cuántos clientes hay?
+
+7.¿Cuántas ventas se han hecho por un precio de más de 300 euros?
+
+8.Obtener un listado con los clientes de Alicante, junto con los modelos de los artículos que ha comprado y sus unidades
+
+9.Obtener los nombres de los clientes que han hecho compras por más de 300 euros
